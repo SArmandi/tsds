@@ -11,6 +11,6 @@ The most relevant data science packages are: `pandas`, `seaborn`, `numpy`, `scip
 - Plotting with `seaborn` using explorative plots, e.g. distplot, barplot, regplot, pairplot. It may also be relevant to look at the background plotting framework `matplotlib`. 
 - Using `scikit-learn` to apply and evaluate basic machine learning methods e.g. lasso, random forest with cross-validation. 
 
-If you have time we encourage investigating numpy which is how Python works with matrices. 
+If you have time we encourage investigating `numpy` which is how Python works with matrices. 
 
 For more info on these packages check out their GitHub repo's and have a look at the documentation. 
