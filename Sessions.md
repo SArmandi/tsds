@@ -1,4 +1,4 @@
-Each session will consist of a lecture and a set of technical exercises. We use the Python programming language (version 2.7) in this course but the course is not about Python. It's about computational tools and methods for working with data. To that end, Python is just a tool—like the ability to write English if you're taking a poetry class. Learning Python as we go is a strategy that will work, but if you learn the basics beforehand you will save time down the road and maximize learning. Learning to code is hard, but if you make the conscious effort ahead of time you will be greatly rewarded. If you already know scientific programming languages like Matlab, R or Stata, learning Python will be easier but you still have to make an effort to do it. *We recommend you start working on the preparation for week one early.*
+Each session will consist of a lecture and a set of technical exercises. 
 
 ***
 
@@ -6,7 +6,7 @@ Each session will consist of a lecture and a set of technical exercises. We use 
 
 *Preparation:* Get set up with Python, learn the basics if you haven't already, read about social data science and learn about the Twitter API.
 
-* Download and install **Python 2.7** from the [Anaconda distribution](https://www.anaconda.com/download/#macos) (not version 3.4).
+* Download and install **Python 3.6** from the [Anaconda distribution](https://www.anaconda.com/download/#macos) (not version 2.7).
 
 **Week 2: Scraping and structuring.** Data scraping, merging, structuring.
 
