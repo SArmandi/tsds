@@ -1,6 +1,6 @@
 We use the Python programming language (version 3.6) in this course but the course is not about Python. It's about analytical tools and methods for working with social data. To that end, Python is just a tool—like the ability to write English if you're taking a poetry class. Thus, **learning Python from scratch as we go is a strategy that will not work**. It's hard to learn to code and there is no way to avoid effort. However, if you get started early it will not only enhance your learning experience, it will also save you lots of time down the road. If you already know a scientific programming language like Matlab, R or Stata, you may have an easier time but learning Python will still require effort.
 
-**In preparing for the course, we advise that you invest significant time exercising your coding skills in Python. Once classes start, we expect that you have a basic understanding of Python and some of its core data science packages.**
+In preparing for the course, we advise that you invest significant time exercising your coding skills in Python. Once classes start, we expect that you have a basic understanding of Python and some of its core data science packages.
 
 For installation check out our [preparation for the 2017 SDS summer course](https://abjer.github.io/sds/posts/2017/07/07/preparing-for-sds.html). The teaching material from the summer course is available [here](abjer.github.io/sds/syllabus) where we cover all the recommended knowledge and skills that we recommend (see below). Some additional external resources are found below.
 
