@@ -22,7 +22,7 @@ This is the (preliminary) plan for the course. The teaching will consist of a we
 
 **Week 8 (Mar. 29): Machine learning 1**. Introduction to machine learning. Model fitting (underfitting/overfitting), bias/variance tradeoff, model evaluation (training, testing, cross-validation, performance measures).
 
-**Week 9 (Apr. 5): Machine learning 2**. *ULF: We need to discuss what exactly goes in here. Since the first ML lecture introduces the whole methodological framework, we could go in depth with how different classifiers work?*
+**Week 9 (Apr. 5): Machine learning 2**(SR). This lecture will focus on how to improve your models using unsupervised learning, semi-supervised learning, and transfer learning. The focus is on feature engineering, learnin from unlabeled data and tranfering knowledge from other learning tasks.
 
 **Week 10 (Apr. 12): Machine learning 3** In the second part of the lecture we will focus on machine learning and causality. In particular we will use some of the newer methods that are hybrids of machine learning and causal inference e.g. [recursive partitioning of trees](http://www.pnas.org/content/113/27/7353.full)
 
