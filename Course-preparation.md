@@ -10,7 +10,10 @@ The most relevant data science packages are: `pandas`, `seaborn`, `numpy`, `scip
 - Data structuring with `pandas` e.g. input/output, basic arithmetic operations, using groupby and joining datasets. A great short overview can be found in Greg Reda's three part intro [here](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/). 
 - Plotting with `seaborn` using explorative plots, e.g. distplot, barplot, regplot, pairplot. It may also be relevant to look at the background plotting framework `matplotlib`. 
 - Using `scikit-learn` to apply and evaluate basic machine learning methods e.g. lasso, random forest with cross-validation. 
-
-If you have time we encourage investigating `numpy` which is how Python works with matrices. 
+- If you have time we encourage investigating `numpy` which is how Python works with matrices. 
 
 For more info on these packages check out their GitHub repo's and have a look at the documentation. 
+
+A good sanity check is that you are able to finish the following exercises with little effort: 
+- basic Python and Jupyter ([exercises](https://github.com/abjer/tsds/blob/master/Training_notebook.ipynb), [solutions](https://www.dropbox.com/s/cmfs4s9m5ybv8pw/Training_notebook-solutions.ipynb?dl=1))
+- the in-class pandas exercise from the summer course ([exercises](https://abjer.github.io/sds/slides/in_class_exercise.ipynb); [solutions](https://abjer.github.io/sds/slides/data_structuring.pdf))
