@@ -17,7 +17,7 @@ There will be two assignments you need to hand in to pass this course (not inclu
     * Include all code, but keep it short and neat. Write code comments, not for everything, but for the parts of your code that is less self-explanatory.
     * Format plots properly by labeling axes, and including explanatory text for each figure.
     * If you're using code you found somewhere, reference the source. We check for plagiarism, but it's always fine to borrow parts (just not whole solutions).
-    * Control the length of your answers. While grading I look at how you prioritize material and whether you expres yourself clearly and succinctly.
+    * Control the length of your answers. While grading we look at how you prioritize material and whether you expres yourself clearly and succinctly.
 
 * Checklist. Have you:
     * Made sure the document is anonymous?
