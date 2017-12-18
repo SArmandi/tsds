@@ -36,6 +36,6 @@ This is the (preliminary) plan for the course. The teaching will consist of a we
 
 Teacher initials
 - ABN: Andreas Bjerre-Nielsen
+- DDL: David Dreyer lassen
 - SR: Snorre Ralund
 - UA: Ulf Aslak Jensen
-- DDL: David
