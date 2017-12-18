@@ -8,7 +8,7 @@ Before the course starts we expect that you have [prepared for the course](https
 
 * Week 1 (Feb. 8): Introduction and data wrangling. [UA] This is *get started week*. The lecture will introduce the course, how it works, what you can expect to learn and what we expect you to deliver. We will introduce the idea of social data science and why it's important, motivate the use of Python and introduce some of the tools you will be learning. The exercises will be part install party to ensure everyone is up to speed on the technological side, and part Python exercises teaching you how to work with data practically.
 
-    * *Preparation*: Get set up with Python, learn the basics if you haven't already, read about social data science and learn about the Twitter API.
+    * *Preparation*: Get set up with Python, learn the basics if you haven't already and read about social data science.
 
         * Download and install **Python 3.6** from the [Anaconda distribution](https://www.anaconda.com/download/#macos) (not version 2.7).
 
