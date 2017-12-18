@@ -38,4 +38,4 @@ Teacher initials
 - ABN: Andreas Bjerre-Nielsen
 - SR: Snorre Ralund
 - UA: Ulf Aslak Jensen
-- D: David
+- DDL: David
