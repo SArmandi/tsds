@@ -1,4 +1,4 @@
-There will be two assignments you need to hand in to pass this course (not including your final project). Assignments are composed of selected problems from previous weeks. Each assignment will be released immediately after the last session containing problems that may go in the assignment. So if you complete all the exercises in each class session you have very little homework in this course.
+There will be two assignments you need to hand in to pass this course (not including your final project). **Assignments are composed of selected problems from the previous weeks' exercises**. Each assignment will be released immediately after the last session containing problems that may go in the assignment. So if you complete all the exercises in each class session you have very little homework in this course.
 
 **Formalia**
 * Groups
