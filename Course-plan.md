@@ -2,7 +2,7 @@ This is the (preliminary) plan for the course. The teaching will consist of a we
 
 ***
 
-**Week 1 (Feb. 7): Introduction and data wrangling.** This is *get started week*. The lecture will introduce the course, how it works, what you can expect to learn and what we expect you to deliver. We will introduce the idea of social data science and why it's important, motivate the use of Python and introduce some of the tools you will be learning. The exercises will be part install party to ensure everyone is up to speed on the technological side, and part Python exercises teaching you how to collect data from the Twitter API.
+**Week 1 (Feb. 8): Introduction and data wrangling.** This is *get started week*. The lecture will introduce the course, how it works, what you can expect to learn and what we expect you to deliver. We will introduce the idea of social data science and why it's important, motivate the use of Python and introduce some of the tools you will be learning. The exercises will be part install party to ensure everyone is up to speed on the technological side, and part Python exercises teaching you how to collect data from the Twitter API.
 
 *Preparation:* Get set up with Python, learn the basics if you haven't already, read about social data science and learn about the Twitter API.
 
