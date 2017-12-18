@@ -9,7 +9,7 @@ There will be two assignments you need to hand in to pass this course (not inclu
 * Format
     * Handins must be Jupyter notebooks, with the file format .ipynb.
     * Name the assignment AssignmentX.ipynb, where X is either 1 or 2.
-    * Must be anonymous! Don't write your names anywhere.
+    * Must be anonymous! Make sure you don't write your name anywhere in the assignment, including your code (watch out for absolute file paths).
 
 * Guidelines
     * To make navigating the notebook easier, copy/paste the text of the question you are answering into your own handin.
