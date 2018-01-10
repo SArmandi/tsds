@@ -14,7 +14,7 @@ Before the course starts we expect that you have [prepared for the course](https
 
 * Week 2 (Feb. 15): *Scraping and structuring*. [SR/ABN] Data scraping, merging, structuring.
 
-* Week 3 (Feb. 22): *Data exploration*. [ABN] Short recap of exploratory data analysis and basic machine learning concepts.
+* Week 3 (Feb. 22): *Data modelling*. [ABN] Short recap of basic machine learning concepts.
 
 * Week 4 (Mar. 1): *Networks 1*. [UA] Introduction to networks: types, applications and limitations. Representing and describing networks.
 
