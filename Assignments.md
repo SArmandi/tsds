@@ -26,10 +26,10 @@ There will be two assignments you need to hand in to pass this course (not inclu
 
 **Timeline**
 * Assignment 1
-    * Posted: . . . . . . . . . . TBA
-    * Handin due: . . . . . . TBA
-    * Peergrading due: . . TBA
+    * Posted: . . . . . . . . . . March 15, 17:00
+    * Handin due: . . . . . . March 21, 23:59
+    * Peergrading due: . . March 25, 23:59
 * Assignment 2
-    * Posted: . . . . . . . . . . TBA
-    * Handin due: . . . . . . TBA
-    * Peergrading due: . . TBA
+    * Posted: . . . . . . . . . . April 26, 17:00,
+    * Handin due: . . . . . . May 2, 23:59
+    * Peergrading due: . . May 6, 23:59
