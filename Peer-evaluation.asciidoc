@@ -7,7 +7,7 @@ We will be using Peergrade for peer evaluations. A peer evaluation session works
 
 If some feedback that you receive appears unfair or wrong, you have the option to flag it so that I can jump in and be the judge on the matter. You can also resolve it without me by anonymously starting a conversation with the reviewer over the flagged feedback. Always be kind.
 
-<br>
+
 **Why?**
 
 There are multiple good reasons for using peer evaluation in a course like this, the two main being:
@@ -15,7 +15,7 @@ There are multiple good reasons for using peer evaluation in a course like this,
 1. **You learn more from reviewing each other's work**. There are countless studies which show this in different ways, and we have seen it too in courses that we have taken and taught. The governing mechanism is that as a reviewer, you must have your own understanding of how to complete some task in order to judge how well someone else solved it. Another reason that peer evaluation improves learning, is that by reviewing other students' work you are presented with the spectrum of solutions to problems you have worked and possibly struggled with, broadening your understanding of the subject matter and making you reflect on your own performance.
 2. **Each of you gets way more feedback on your work**. We will ask that each student reviews 2-3 handins in each peer review session and because there are fewer handins than students (you work in groups), each handin gets up to 10 evaluations! This not only gives you a more balanced view of your performance, it also provides you with multiple legs to stand on if you feel that a particular grader is being unfair.
  
-<br>
+
 **Grading**
 
 10% of your grade is due to the quality of your peer reviews. Review quality is estimated by looking at how the receiver rated the feedback and how well the feedback agrees with the teacher's and other students'. You don't have to write an essay in each rubric explaining the ratings you give your peers—typically, if your feedback is justified, constructive, kind and fair it will get a high rating.
