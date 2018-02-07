@@ -1,6 +1,10 @@
 **Intro**
 
-Welcome to the course wiki for [Topics Social Data Science](https://kurser.ku.dk/course/a%C3%98kk08371u/2017-2018) offered by the University of Copenhagen. This is the main page where you will find all the info you need about the course. The main thing you want to look for here is the weekly updated *course plan* (below), which outlines the content of each coming session. In the side-bar, there are pages where you can read about important details of the course, such as course preparation, timeline, assignments, evaluation and more. The teaching will consist of a weekly session with lectures and exercises. The sessions are held Thursday afternoon 13-17 in CSS 2.1.30.
+Welcome to the course wiki for [Topics Social Data Science](https://kurser.ku.dk/course/a%C3%98kk08371u/2017-2018) offered by the University of Copenhagen. This is the wiki page for the course, where you will find all the info you need. The main thing you want to look for here is *course plan* (see below), which outlines the content of each coming session. You'll see that it has most of the sessions sketched out, but as we go information will be added, indicating what you should expect from each session and what you must prepare.
+
+In the side-bar, there are pages where you can read about other important details of the course, such as general course preparation, the timeline, assignments, evaluation and more. The teaching will consist of a weekly session with lectures and exercises. The sessions are held Thursday afternoon 13-17 in CSS 2.1.30.
+
+Finally, have a look at the `<> Code` tab (above, left). That's where we will be sharing all the files used in the course, which includes exercises and assignments mostly.
 
 Before the course starts we expect that you have [prepared for the course](https://github.com/abjer/tsds/wiki/Course-preparation).
 
