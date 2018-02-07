@@ -5,7 +5,7 @@ We will be using Peergrade for peer evaluations. A peer evaluation session works
 3. You get all the feedback that your assignment received.
 4. You rate the quality of the feedback. 
 
-If some feedback that you receive appears unfair or wrong, you have the option to flag it so that I can jump in and be the judge on the matter. You can also resolve it without me by anonymously starting a conversation with the reviewer over the flagged feedback. Always be kind.
+If some feedback that you receive appears unfair or wrong, you have the option to flag it so that we can jump in and be the judge on the matter. You can also resolve it without me by anonymously starting a conversation with the reviewer over the flagged feedback. Always be kind.
 
 
 **Why?**
