@@ -18,4 +18,4 @@ There are multiple good reasons for using peer evaluation in a course like this,
 
 **Grading**
 
-10% of your grade is due to the quality of your peer reviews. Review quality is estimated by looking at how the receiver rated the feedback and how well the feedback agrees with the teacher's and other students'. You don't have to write an essay in each rubric explaining the ratings you give your peers—typically, if your feedback is justified, constructive, kind and fair it will get a high rating.
+When grading, we take into account the *quality* of your peer feedback. Review quality is estimated by looking at how the receiver rated the feedback and how well the feedback agrees with the teacher's and other students'. You don't have to write an essay in each rubric explaining the ratings you give your peers—typically, if your feedback is justified, constructive, kind and fair it will get a high rating.
