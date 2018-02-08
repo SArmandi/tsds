@@ -4,7 +4,7 @@
 
 ![david](https://www2.adm.ku.dk/selv/pls/prt_www40.hentindhold_cms?p_personid=28460)
 
-[David Dreyer lassen](http://forskning.ku.dk/find-en-forsker/?pure=da/persons/28460) (DDL)
+[David Dreyer Lassen](http://forskning.ku.dk/find-en-forsker/?pure=da/persons/28460) (DDL)
 
 ![snorre](https://www2.adm.ku.dk/selv/pls/prt_www40.hentindhold_cms?p_personid=374048)
 
